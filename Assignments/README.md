@@ -30,23 +30,6 @@
 
 ---
 
-## 📂 Folder Structure
-
-Assignments/
-│
-├── A1/ → Assignment 1 (Bank Account System)
-│ ├── BankDemo.java
-│ ├── (optional) BankAccount.java ← if separate file used
-│
-├── A2/ → Assignment 2 (Quiz Game)
-│ ├── QuizGame.java
-│ ├── Question.java
-│ ├── questions.txt
-│
-└── README.md
-
----
-
 ## 📝 Assignment Details
 
 ### ✅ **Assignment 1 – Bank Account Management System**
