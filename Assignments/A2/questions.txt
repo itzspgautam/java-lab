@@ -1,0 +1,24 @@
+Which language is platform independent?
+C
+C++
+Java
+Python
+C
+Who developed Java?
+Dennis Ritchie
+James Gosling
+Guido van Rossum
+Bjarne Stroustrup
+B
+Which company currently owns Java?
+Sun Microsystems
+Oracle
+Microsoft
+Google
+B
+Which of the following is NOT a Java feature?
+Object Oriented
+Platform Independent
+Pointer Arithmetic
+Automatic Memory Management
+C
